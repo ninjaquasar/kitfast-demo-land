@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..900;1,6..12,200..900&family=Roboto:ital,wght@0,200..900;1,200..900&display=swap");
+@import "tailwindcss";
+
+@theme {
+	--font-heading: "Nunito Sans", Verdana, sans-serif;
+	--font-body: "Roboto", Helvetica, sans-serif;
+	--color-light: #fafaf5;
+	--color-dark: #10100f;
+	--color-primary: #faa520;
+}
