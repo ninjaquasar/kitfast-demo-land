@@ -6,5 +6,7 @@
 	--font-body: "Roboto", Helvetica, sans-serif;
 	--color-light: #fafaf5;
 	--color-dark: #10100f;
-	--color-primary: #faa520;
+	--color-primary: #f79c20;
+	--color-amber-450: #ffa900;
+	--container-8xl: 96rem;
 }
